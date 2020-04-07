@@ -1,0 +1,16 @@
+.fun_warp {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 2rem;
+  padding: 1rem;
+  margin: auto;
+
+  &>view {
+    width: 100%;
+    height: 300px;
+    line-height: 300px;
+    overflow: scroll;
+    text-align: center;
+    white-space: nowrap;
+  }
+}

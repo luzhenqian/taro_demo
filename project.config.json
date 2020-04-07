@@ -1,0 +1,18 @@
+{
+	"miniprogramRoot": "dist/",
+	"projectname": "taro_app",
+	"description": "a test project",
+	"appid": "wx52eebbfce64c33cc",
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+		"postcss": false,
+		"minified": false
+	},
+	"compileType": "miniprogram",
+	"cloudfunctionRoot": "functions/",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"cloudfunctionTemplateRoot": "cloudfunctionTemplate",
+	"condition": {}
+}

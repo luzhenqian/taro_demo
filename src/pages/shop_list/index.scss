@@ -1,0 +1,20 @@
+.ceiling {
+  position: fixed;
+  width: 100%;
+  top: 0;
+}
+
+.shopListWarp {
+  margin-top: 80px;
+}
+
+.item {
+  width: 50%;
+  float: left;
+  padding: 20px;
+  box-sizing: border-box;
+
+  &>image {
+    width: 100%;
+  }
+}
